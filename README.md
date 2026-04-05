@@ -1,7 +1,7 @@
 # Equipe
 Quem somos
 
-# Equipe: João César, João Vítor e Carlos Eduardo
+# Equipe: João César, João Vítor, Carlos Eduardo e Hélio
 
 ### Tema: apoio à contratação de mão de obra na construção civil por meio de um chatbot (fase conceitual, sem implementação).
 
